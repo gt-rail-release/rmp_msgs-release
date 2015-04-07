@@ -1,0 +1,13 @@
+ros-jade-rmp-msgs (0.0.1-0utopic) utopic; urgency=high
+
+  * removed whitespace
+  * cleanup of repo
+  * Merge pull request #1 from cmdunkers/master
+    added messages
+  * added messages
+  * Initial commit
+  * Contributors: Chris Dunkers, Russell Toris
+
+ -- Russell Toris <rctoris@wpi.edu>  Tue, 05 Aug 2014 04:00:00 -0000
+
+
